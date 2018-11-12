@@ -1,0 +1,30 @@
+1) trazo de ruta con punto de inicio y destino (cuadros con autocompletado) = { (3) + (4) }
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-directions
+
+2) geolocalizacion: ubica tu posicion en el mapa:
+https://developers.google.com/maps/documentation/javascript/examples/map-geolocation
+
+3) direcciones con trazados de rutas:
+3.1) direcciones simples:
+https://developers.google.com/maps/documentation/javascript/examples/directions-simple
+3.2) direcciones con cuadro de indicaciones que da indicaciones tipo uber:
+https://developers.google.com/maps/documentation/javascript/examples/directions-panel
+3.3) direcciones complejas:
+https://developers.google.com/maps/documentation/javascript/examples/directions-complex
+3.4) Direccion de modos de viaje (a pie, con carro, tren, avion, etc):
+https://developers.google.com/maps/documentation/javascript/examples/directions-travel-modes
+
+4) buscadores de un lugar:
+4.1) buscador con cuadro de texto simple:
+https://developers.google.com/maps/documentation/javascript/examples/places-searchbox
+
+4.2) buscador con autocompletado:
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete
+
+bonus pack: 
+* evento para trazar rutas pinendo click con marcadores:
+https://developers.google.com/maps/documentation/javascript/examples/event-poi
+* eventos de mouse:
+https://developers.google.com/maps/documentation/javascript/events
+* jueguito puzle :v
+https://google-developers.appspot.com/maps/documentation/javascript/examples/full/map-puzzle
